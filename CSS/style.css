@@ -1,5 +1,33 @@
-background {
-  url ("/css/raining paint.jpg")
-  background-size: auto;
+body {
+  background-color: black;
+    }
 
-}
+/*Navigation Bar*/
+
+.nav nav nav-pills nav-justified {
+  color: orange;
+  }
+
+/* Headings*/
+  .heading {
+    text-align: center;
+    color: white;
+      }
+
+  .heading2 {
+    text-align: center;
+    color: white;
+    }
+
+  /*Content*/
+
+  p {
+    text-align: center;
+    color: white;
+  }
+
+  /*graphics*/
+
+  .mandp{
+    text-align: center;
+  }
